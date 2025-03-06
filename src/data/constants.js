@@ -220,7 +220,7 @@ export const experiences = [
     role: "Data Science Intern",
     company: "Suvidha Foundation (Suvidha Mahila Mandal) ",
     date: "Jan 2025  - Feb 2025",
-    desc: "Developed NLP-based candidate matching algorithms using Python and scikit-learn, reducing recruitment screening time by 35% and improving candidate-role match accuracy across 2,500+ application profiles",
+    desc: "Deployed PEGASUS and T5 models for abstractive text summarization, focusing on optimizing metrics such as ROUGE-1, ROUGE-2, and ROUGE-L. Fine-tuned and assessed the model’s performance to improve accuracy and ensure scalability for practical use cases.",
     skills: [
       "Machine Learning",
       "Generative AI",
@@ -239,7 +239,7 @@ export const experiences = [
     role: "Summer Intern",
     company: "Edunet Foundation",
     date: "Aug 2023 - July 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    desc: " Designed and implemented no-code machine learning models from scratch, achieving a 16% increase in prediction accuracy and enhancing data-driven application performance while reducing operational errors Cloud-based chatbots have been created for answering real-time live customer queries using the IBM watsonx and delivered to production via IBM Cloud services.",
     skills: [
       "Machine Learning",
       "Generative AI",
