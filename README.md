@@ -46,9 +46,9 @@ This portfolio is deployed on **Netlify**. If you want to deploy it yourself, fo
 2. Upload the `build` folder to Netlify.
 
 ## 📬 Contact
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
+- 📧 Email: abstar072002@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/abhijeet-singh-40a513258/
+- 🐦 Medium: https://medium.com/@abhijeetas8660211
 
 ## ⭐ Show Some Love!
 If you like this project, feel free to **star** ⭐ the repository and share your feedback!
